@@ -1,5 +1,5 @@
 <p align="center">
-	<b>fireturret</b>
+	<b>Fireturret</b>
 	<br>
 	<i>Simple RAT for Windows OS with password protected SSH tunelling.</i>
 	<br><br><br>
